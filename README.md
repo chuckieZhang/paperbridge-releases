@@ -1,2 +1,9 @@
-# paperbridge-releases
-Official Windows downloads and signed update manifests for PaperBridge
+# 知页 PaperBridge
+
+Windows 文献阅读与学术写作客户端的官方下载仓库。
+
+安装包通过本仓库的 Releases 提供。正式签名版本准备完成后，下载对应的 x64 安装程序；每个版本随附 SHA256SUMS.txt 和使用说明。
+
+此仓库仅用于发布安装包和更新清单，应用源码在独立的私有仓库维护。目前尚未发布签名安装包。
+
+内测版使用用户自己的模型 API Key。文献与文档保存在本机，翻译、问答和辅助写作会把必要内容发送至用户配置的模型渠道。
